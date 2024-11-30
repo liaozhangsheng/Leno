@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>favicon.svg</file>
+        <file>res/author.jpg</file>
+        <file>res/github.jpg</file>
+        <file>res/qtnodes.jpg</file>
+        <file>res/Home_Background.png</file>
+        <file>res/hanbao.svg</file>
+        <file>res/shutiao.svg</file>
+        <file>res/tangguoguan.svg</file>
+        <file>res/node.svg</file>
+        <file>res/detail.svg</file>
+        <file>res/i18n/Leno_zh_CN.ts</file>
+        <file>res/i18n/Leno_en_US.ts</file>
+    </qresource>
+</RCC>

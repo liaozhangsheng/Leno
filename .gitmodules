@@ -1,0 +1,6 @@
+[submodule "3rdparty/ElaWidgetTools"]
+	path = 3rdparty/ElaWidgetTools
+	url = https://github.com/Liniyous/ElaWidgetTools.git
+[submodule "3rdparty/nodeeditor"]
+	path = 3rdparty/nodeeditor
+	url = https://github.com/paceholder/nodeeditor.git
